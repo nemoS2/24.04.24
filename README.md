@@ -1,1 +1,3 @@
-# 24.04.24
+# Minesweeper
+
+#### Um simples campo minado com HTML, CSS e Javascript
